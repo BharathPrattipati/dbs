@@ -1,0 +1,11 @@
+https://www.hackerrank.com/contests/sample-test-1/challenges/helloworld-sample/problem
+https://www.hackerrank.com/challenges/maximum-subarray-sum/problem -  solved
+https://www.hackerrank.com/challenges/pairs/problem -  solved
+https://www.hackerrank.com/challenges/missing-numbers/problem - solved
+https://www.hackerrank.com/challenges/count-luck/problem 
+https://www.hackerrank.com/challenges/short-palindrome/problem
+https://www.hackerrank.com/challenges/big-sorting/problem - solved
+https://www.hackerrank.com/challenges/tutorial-intro/problem
+https://www.hackerrank.com/challenges/countingsort4/problem - 
+https://www.hackerrank.com/challenges/closest-numbers/problem -  solved
+https://www.hackerrank.com/challenges/sum-vs-xor/problem - solved
